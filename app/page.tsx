@@ -1,5 +1,7 @@
-const Rootpage = () => {
-  return <h1>Hello World</h1>
-}
+import NavigationBar from "@/components/navigation-bar/NavigationBar";
 
-export default Rootpage;
+const RootPage = () => {
+  return <h1 className="text-4xl font-bold">Home</h1>;
+};
+
+export default RootPage;

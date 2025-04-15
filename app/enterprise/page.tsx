@@ -1,6 +1,5 @@
-const enterprise = () => {
-  return <h1>Enterprise</h1>;
-}
+const Exterprise = () => {
+  return <h1 className="text-4xl font-bold">Exterprise</h1>;
+};
 
-
-export default enterprise;
+export default Exterprise;
